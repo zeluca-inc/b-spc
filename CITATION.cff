@@ -3,6 +3,14 @@ message: "If you use or cite this standard, please cite it as below."
 title: "Benefits Statistical Process Control (B-SPC) Standard"
 version: "2.3"
 date-released: "2026-09-23"
+doi: 10.5281/zenodo.22926249
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22926249
+    description: "This version (v2.3)"
+  - type: doi
+    value: 10.5281/zenodo.22926248
+    description: "Concept DOI - resolves to the latest version"
 license: CC-BY-4.0
 url: "https://zeluca.com/b-spc"
 repository-code: "https://github.com/zeluca-inc/b-spc"
