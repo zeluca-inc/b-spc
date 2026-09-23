@@ -2,6 +2,8 @@
 
 **Version 2.3 · September 2026 · Licence: CC BY 4.0**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22926249.svg)](https://doi.org/10.5281/zenodo.22926249)
+
 An open standard for measuring, charting and attributing payment and procedural error in government benefit programs — SNAP first, and Medicaid MEQC/PERM, TANF and CCDF where the same integrated workforce and income rules apply. It specifies how a benefit agency, an auditor, a researcher or a vendor should measure error where it enters a process, chart it so that noise is not mistaken for signal, and attribute movement to a cause. It is written to be applied without any particular software.
 
 The standard governs management measurement between official quality-control cycles. It does not replace, re-estimate or predict the official payment error rate.
@@ -20,9 +22,9 @@ The canonical web page is <https://zeluca.com/b-spc>.
 
 ## Cite as
 
-> Zeluca Inc. (2026). *Benefits Statistical Process Control (B-SPC) Standard*, v2.3. https://zeluca.com/b-spc. Licensed CC BY 4.0.
+**Zeluca Inc. (2026). *Benefits Statistical Process Control (B-SPC) Standard*, v2.3. Zenodo. https://doi.org/10.5281/zenodo.22926249. Also at https://zeluca.com/b-spc. Licensed CC BY 4.0.**
 
-A DOI for this release is listed in `CITATION.cff` once the release is archived on Zenodo.
+The DOI above is for v2.3. The concept DOI https://doi.org/10.5281/zenodo.22926248 always resolves to the latest version.
 
 ## Licence
 
