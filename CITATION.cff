@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or cite this standard, please cite it as below."
+title: "Benefits Statistical Process Control (B-SPC) Standard"
+version: "2.3"
+date-released: "2026-09-23"
+license: CC-BY-4.0
+url: "https://zeluca.com/b-spc"
+repository-code: "https://github.com/zeluca-inc/b-spc"
+abstract: "An open standard for measuring, charting and attributing payment and procedural error in government benefit programs (SNAP first; Medicaid MEQC/PERM, TANF and CCDF where the same integrated workforce and income rules apply). It governs management measurement between official quality-control cycles and does not replace, re-estimate or predict the official payment error rate."
+keywords:
+  - SNAP
+  - payment error rate
+  - quality control
+  - statistical process control
+  - corrective action plan
+  - program integrity
+  - H.R.1
+authors:
+  - name: "Zeluca, Inc."
+    city: San Jose
+    region: California
+    country: US
+    email: hamid.nouri@zeluca.com
