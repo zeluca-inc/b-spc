@@ -1,1 +1,36 @@
-{"title":"Benefits Statistical Process Control (B-SPC) Standard v2.3","upload_type":"publication","publication_type":"technicalnote","description":"An open standard for measuring, charting and attributing payment and procedural error in government benefit programs (SNAP first; Medicaid MEQC/PERM, TANF and CCDF where the same integrated workforce and income rules apply). It specifies how a benefit agency, an auditor, a researcher or a vendor should measure error where it enters a process, chart it so that noise is not mistaken for signal, and attribute movement to a cause, without dependence on any particular software. It governs management measurement between official quality-control cycles and does not replace, re-estimate or predict the official payment error rate. Includes a companion one-pager on measuring corrective-action effectiveness under 7 CFR 275.17.","creators":[{"name":"Zeluca, Inc."}],"access_right":"open","license":"CC-BY-4.0","version":"2.3","publication_date":"2026-09-23","language":"eng","keywords":["SNAP","payment error rate","quality control","statistical process control","corrective action plan","program integrity","H.R.1","Medicaid MEQC","PERM"],"related_identifiers":[{"identifier":"https://zeluca.com/b-spc","relation":"isIdenticalTo","resource_type":"publication-technicalnote"}]}
+{
+  "title": "Benefits Statistical Process Control (B-SPC) Standard v2.6",
+  "upload_type": "publication",
+  "publication_type": "technicalnote",
+  "description": "An open standard for measuring, charting and attributing payment and procedural error in government benefit programs (SNAP first; Medicaid MEQC/PERM, TANF and CCDF where the same integrated workforce and income rules apply). It specifies how a benefit agency, an auditor, a researcher or a vendor should measure error where it enters a process, chart it so that noise is not mistaken for signal, and attribute movement to a cause, without dependence on any particular software. Version 2.6 adds the two bills a state now pays (benefit cost-share and the 75% state share of administrative costs), attribution in error dollars with a rate bridge, a scale-readiness test of reviewer capacity, capacity and process-efficiency measures, indicator validation, target and projection rules, and limit-setting discipline. It governs management measurement between official quality-control cycles and does not replace, re-estimate or predict the official payment error rate. Includes a companion one-pager on measuring corrective-action effectiveness under 7 CFR 275.17.",
+  "creators": [
+    {
+      "name": "Zeluca, Inc."
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "version": "2.6",
+  "publication_date": "2026-10-01",
+  "language": "eng",
+  "keywords": [
+    "SNAP",
+    "payment error rate",
+    "quality control",
+    "statistical process control",
+    "corrective action plan",
+    "program integrity",
+    "H.R.1",
+    "Medicaid MEQC",
+    "PERM",
+    "attribution",
+    "capacity planning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://zeluca.com/b-spc",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-technicalnote"
+    }
+  ]
+}
