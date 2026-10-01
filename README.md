@@ -1,4 +1,3 @@
-markdown
 # Benefits Statistical Process Control (B-SPC) Standard
 
 **Version 2.6 · 1 October 2026 · License: CC BY 4.0**
