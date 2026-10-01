@@ -26,7 +26,7 @@ The canonical web page is <https://zeluca.com/b-spc>.
 
 **Zeluca Inc. (2026). *Benefits Statistical Process Control (B-SPC) Standard*, v2.6. Zenodo. https://doi.org/10.5281/zenodo.22926248. Also at https://zeluca.com/b-spc. Licensed CC BY 4.0.**
 
-The DOI above is the concept DOI: it always resolves to the latest version. Each release also has its own version DOI, listed on the Zenodo record; v2.3 is https://doi.org/10.5281/zenodo.22926249.
+The DOI above is the concept DOI: it always resolves to the latest version. Each release also has its own version DOI, listed on the Zenodo record: v2.6 is https://doi.org/10.5281/zenodo.23072821 and v2.3 is https://doi.org/10.5281/zenodo.22926249.
 
 ## License
 
